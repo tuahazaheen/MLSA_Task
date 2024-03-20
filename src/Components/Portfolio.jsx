@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/w3.jpg";
+import image from "../images/w4.jpg";
 
 const imageAltText = "books and laptop";
 
@@ -31,29 +31,18 @@ const imageAltText = "books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Digital Marketing",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Fundamentals of Digital Marketing” by Interactive Advertising Bureau Europe-IAB and The Open University",
+    url: "https://www.linkedin.com/posts/tuaha-zaheen-941a93222_fundamentals-of-digital-marketing-activity-6973670597260177409-mzfK?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Learn Student Ambassador",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future.",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/bf95d5df-a77b-4d41-8f2b-19da9ccfecbf",
   },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+ 
 ];
 
 const Portfolio = () => {

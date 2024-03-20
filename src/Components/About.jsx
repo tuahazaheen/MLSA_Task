@@ -24,19 +24,18 @@ const imageAltText = " About background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a EE student studying at BSEAS. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello, I'm Tuaha Zaheen, an Electrical Engineering undergraduate student at Bahria University Islamabad, with a fervent passion for leveraging technology to create positive impacts. As I pursue my studies, I am driven by the belief in utilizing cutting-edge technologies to address complex challenges and foster innovation. My journey in the field of Electrical Engineering is propelled by a desire to embrace the evolving landscape of technology and to champion student leadership within the tech community. With a focus on harnessing technology to make a meaningful difference, I am committed to exploring novel solutions that hold the potential to transform industries and enrich lives.Currently, I am honored to serve as a Microsoft Learn Student Ambassador, while also leading initiatives at Google Developers-GDSC & IEEE at BUIC. These roles have not only allowed me to refine my leadership and organizational skills but have also provided invaluable insights into project management and the significance of effective team collaboration. Driven by a relentless pursuit of excellence, I am excited about the possibilities that lie ahead and eager to contribute to the advancement of technology for the betterment of society.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "UI design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Engineering Solutions",
+  "Digital Marketing",
+  "Resume Writing",
+  "Content Creation",
+  "Graphic Design",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am deeply passionate about exploring new avenues for problem-solving, driven by a relentless desire to drive innovation forward. With a foundation in Electrical Engineering, I am dedicated to discovering novel solutions that empower accessibility and inclusivity in technology, prioritizing user-centric approaches in all my endeavors..";
 
 const About = () => {
   return (

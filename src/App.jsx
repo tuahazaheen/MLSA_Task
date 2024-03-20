@@ -28,11 +28,11 @@ const siteProps = {
   title: "Electrical Engineer",
   email: "tuaha.zaheen@outlook.com",
   gitHub: "tuahazaheen",
-  instagram: "Tuaha Zaheen",
-  linkedIn: "Tuaha Zaheen",
-  medium: "Tuaha Zaheen",
-  twitter: "Tuaha Zaheen",
-  youTube: "Tuaha Zaheen",
+  instagram: "tuahazaheen",
+  linkedIn: "tuaha-zaheen-941a93222",
+  medium: "tuahazaheen123",
+  twitter: "",
+  youTube: "channel/UC_qKktW5uHrbLLmC_6GvrIg",
 };
 
 const primaryColor = "#4E567E";
