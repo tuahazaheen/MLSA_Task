@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "tuaha-zaheen-941a93222",
   medium: "tuahazaheen123",
   twitter: "",
-  youTube: "channel/UC_qKktW5uHrbLLmC_6GvrIg",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
